@@ -10,4 +10,4 @@ over time as we run the workshop.
 
 The project involves planning the refurbishment and installation
 of a new kitchen.
-
+THIS IS A NEW LINE.
